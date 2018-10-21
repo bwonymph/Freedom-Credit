@@ -92,82 +92,82 @@
                         <th aria-label="Browser: activate to sort column ascending" style="width: 207px;" colspan="1" rowspan="1" aria-controls="example1" tabindex="0" class="sorting">Source</th>
                         <th aria-label="Platform(s): activate to sort column ascending" style="width: 182px;" colspan="1" rowspan="1" aria-controls="example1" tabindex="0" class="sorting">Category</th>
                         <th aria-label="Engine version: activate to sort column ascending" style="width: 142px;" colspan="1" rowspan="1" aria-controls="example1" tabindex="0" class="sorting">Amount</th>
-                        <th aria-label="CSS grade: activate to sort column ascending" style="width: 101px;" colspan="1" rowspan="1" aria-controls="example1" tabindex="0" class="sorting">Freedom grade</th>
+                        <th aria-label="CSS grade: activate to sort column ascending" style="width: 101px;" colspan="1" rowspan="1" aria-controls="example1" tabindex="0" class="sorting">Payment Method</th>
                       </tr>
                     </thead>
                     <tbody>
                       <tr class="even" role="row">
-                        <td class="sorting_1">Blink</td>
-                        <td>Iridium  54.0</td>
-                        <td>GNU/Linux</td>
+                        <td class="sorting_1">Safeway</td>
+                        <td>Yodlee</td>
+                        <td>Food</td>
                         <td>54</td>
-                        <td>A</td>
+                        <td>BoA Card</td>
                       </tr>
                       <tr class="odd" role="row">
-                        <td class="sorting_1">Gecko</td>
-                        <td>Firefox 1.0</td>
-                        <td>Win 98+ / OSX.2+</td>
+                        <td class="sorting_1">Payment</td>
+                        <td>Marqueta</td>
+                        <td>Rent</td>
                         <td>1.7</td>
-                        <td>A</td>
+                        <td>Freedom Credit Card</td>
                       </tr>
                       <tr class="even" role="row">
-                        <td class="sorting_1">Gecko</td>
-                        <td>Firefox 1.5</td>
-                        <td>Win 98+ / OSX.2+</td>
+                        <td class="sorting_1">Safeway</td>
+                        <td>Yodlee</td>
+                        <td>Food</td>
                         <td>1.8</td>
-                        <td>A</td>
+                        <td>BoA Card</td>
                       </tr>
                       <tr class="odd" role="row">
-                        <td class="sorting_1">Gecko</td>
-                        <td>Firefox 2.0</td>
-                        <td>Win 98+ / OSX.2+</td>
+                        <td class="sorting_1">Amazon</td>
+                        <td>Yodlee</td>
+                        <td>Misc</td>
                         <td>1.8</td>
-                        <td>A</td>
+                        <td>BoA Card</td>
                       </tr>
                       <tr class="even" role="row">
-                        <td class="sorting_1">Gecko</td>
+                        <td class="sorting_1">Amazon</td>
                         <td>Firefox 3.0</td>
                         <td>Win 2k+ / OSX.3+</td>
                         <td>1.9</td>
                         <td>A</td>
                       </tr>
                       <tr class="odd" role="row">
-                        <td class="sorting_1">Gecko</td>
+                        <td class="sorting_1">Payment</td>
                         <td>Camino 1.0</td>
                         <td>OSX.2+</td>
                         <td>1.8</td>
                         <td>A</td>
                       </tr>
                       <tr class="even" role="row">
-                        <td class="sorting_1">Gecko</td>
-                        <td>Camino 1.5</td>
-                        <td>OSX.3+</td>
+                        <td class="sorting_1">Payment</td>
+                        <td>Marqueta</td>
+                        <td>Rent</td>
                         <td>1.8</td>
-                        <td>A</td>
+                        <td>Freedom Credit Card</td>
                       </tr>
                       <tr class="odd" role="row">
-                        <td class="sorting_1">Gecko</td>
-                        <td>Netscape 7.2</td>
-                        <td>Win 95+ / Mac OS 8.6-9.2</td>
+                        <td class="sorting_1">Hospital</td>
+                        <td>Paypal</td>
+                        <td>Medical</td>
                         <td>1.7</td>
-                        <td>A</td>
+                        <td>Emergency Fund</td>
                       </tr>
                       <tr class="even" role="row">
-                        <td class="sorting_1">Gecko</td>
+                        <td class="sorting_1">Safeway</td>
                         <td>Netscape Browser 8</td>
                         <td>Win 98SE+</td>
                         <td>1.7</td>
                         <td>A</td>
                       </tr>
                       <tr class="odd" role="row">
-                        <td class="sorting_1">Gecko</td>
+                        <td class="sorting_1">Payment</td>
                         <td>Netscape Navigator 9</td>
                         <td>Win 98+ / OSX.2+</td>
                         <td>1.8</td>
                         <td>A</td>
                       </tr>
                       <tr class="even" role="row">
-                        <td class="sorting_1">Gecko</td>
+                        <td class="sorting_1">Amazon</td>
                         <td>Mozilla 1.0</td>
                         <td>Win 95+ / OSX.1+</td>
                         <td>1</td>
@@ -180,7 +180,7 @@
                         <th colspan="1" rowspan="1">Source</th>
                         <th colspan="1" rowspan="1">Category</th>
                         <th colspan="1" rowspan="1">Amount</th>
-                        <th colspan="1" rowspan="1">Freedom Grade</th>
+                        <th colspan="1" rowspan="1">Payment Method</th>
                       </tr>
                     </tfoot>
                   </table>

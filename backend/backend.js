@@ -1,8 +1,37 @@
 var request = require('request');
 
 
+function createCard(){
+	create_card = {
+	  "start_date": "2018-10-20",
+	  "name": "Freedom Credit Card",
+	  "config": {
+	    "fulfillment": {
+	      "payment_instrument":"VIRTUAL_PAN"
+	     },
+	    "poi": {
+	      "ecommerce": true
+	    },
+	    "card_life_cycle": {
+	      "activate_upon_issue": true
+	    }
+	  }
+	}
+	request.post(
+	    'https://shared-sandbox-api.marqeta.com/v3/',
+	    { json: create_card },
+	    function (error, response, body) {
+	        if (!error && response.statusCode == 200) {
+	            console.log(body)
+	        }
+	    }
+	);
+}
+
+
+
 function issueCredit(){
-	// Issue Marqueta Digital Card
+	// Issue monies Marqueta Digital Card
 	// Uses Marqueta API to create card
 
 	fill_json = {

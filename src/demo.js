@@ -59,14 +59,21 @@ export const timeline = [{
 {
   icon: 'fa-user',
   color: 'yellow',
-  title: 'Kent Makishima is following your progress',
-  time: moment('20180620', 'MMM Do YY').fromNow()
+  title: 'Next Minimum Payment is due soon',
+  time: moment('20181018', 'YYYYMMDD').fromNow(),
+  body: 'Minimum Payment is 20 Dollars',
+  buttons: [{
+    type: 'primary',
+    message: 'Pay Now',
+    href: 'https://en.wikipedia.org/wiki/Passive_management',
+    target: '_blank'
+  }]
 },
 {
   icon: 'fa-camera',
   color: 'purple',
   title: 'Watch this video',
-  time: moment('20130620', 'YYYYMMDD').fromNow(),
+  time: moment('20181019', 'YYYYMMDD').fromNow(),
   body: '<div class="embed-responsive embed-responsive-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/5LowFH22_vI" frameborder="0" allowfullscreen></iframe></div>'
   // <iframe width="560" height="315" src="https://www.youtube.com/embed/5LowFH22_vI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 }]

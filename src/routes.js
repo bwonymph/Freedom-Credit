@@ -25,8 +25,8 @@ const routes = [
         path: 'dashboard',
         alias: '',
         component: DashboardView,
-        name: 'Freedom Credit',
-        meta: {description: 'Dashboard Overview'}
+        name: 'Dashboard',
+        meta: {description: 'Information Overview'}
       }, {
         path: 'tables',
         component: TablesView,
