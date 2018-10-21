@@ -100,78 +100,78 @@
                         <td class="sorting_1">Safeway</td>
                         <td>Yodlee</td>
                         <td>Food</td>
-                        <td>54</td>
+                        <td>20</td>
                         <td>BoA Card</td>
                       </tr>
                       <tr class="odd" role="row">
                         <td class="sorting_1">Payment</td>
                         <td>Marqueta</td>
                         <td>Rent</td>
-                        <td>1.7</td>
+                        <td>100</td>
                         <td>Freedom Credit Card</td>
                       </tr>
                       <tr class="even" role="row">
                         <td class="sorting_1">Safeway</td>
                         <td>Yodlee</td>
                         <td>Food</td>
-                        <td>1.8</td>
+                        <td>18</td>
                         <td>BoA Card</td>
                       </tr>
                       <tr class="odd" role="row">
                         <td class="sorting_1">Amazon</td>
                         <td>Yodlee</td>
                         <td>Misc</td>
-                        <td>1.8</td>
+                        <td>10</td>
                         <td>BoA Card</td>
                       </tr>
                       <tr class="even" role="row">
                         <td class="sorting_1">Amazon</td>
-                        <td>Firefox 3.0</td>
-                        <td>Win 2k+ / OSX.3+</td>
-                        <td>1.9</td>
-                        <td>A</td>
+                        <td>Yodlee</td>
+                        <td>Misc</td>
+                        <td>19</td>
+                        <td>BoA</td>
                       </tr>
                       <tr class="odd" role="row">
                         <td class="sorting_1">Payment</td>
-                        <td>Camino 1.0</td>
-                        <td>OSX.2+</td>
-                        <td>1.8</td>
-                        <td>A</td>
+                        <td>Marqueta</td>
+                        <td>Rent</td>
+                        <td>200</td>
+                        <td>Freedom Credit Card</td>
                       </tr>
                       <tr class="even" role="row">
                         <td class="sorting_1">Payment</td>
                         <td>Marqueta</td>
                         <td>Rent</td>
-                        <td>1.8</td>
+                        <td>182</td>
                         <td>Freedom Credit Card</td>
                       </tr>
                       <tr class="odd" role="row">
                         <td class="sorting_1">Hospital</td>
                         <td>Paypal</td>
                         <td>Medical</td>
-                        <td>1.7</td>
+                        <td>130</td>
                         <td>Emergency Fund</td>
                       </tr>
                       <tr class="even" role="row">
                         <td class="sorting_1">Safeway</td>
-                        <td>Netscape Browser 8</td>
-                        <td>Win 98SE+</td>
-                        <td>1.7</td>
-                        <td>A</td>
+                        <td>Yodlee</td>
+                        <td>Food</td>
+                        <td>12</td>
+                        <td>BoA</td>
                       </tr>
                       <tr class="odd" role="row">
                         <td class="sorting_1">Payment</td>
-                        <td>Netscape Navigator 9</td>
-                        <td>Win 98+ / OSX.2+</td>
-                        <td>1.8</td>
-                        <td>A</td>
+                        <td>Marqueta</td>
+                        <td>Rent</td>
+                        <td>180</td>
+                        <td>Freedom Credit Card</td>
                       </tr>
                       <tr class="even" role="row">
                         <td class="sorting_1">Amazon</td>
-                        <td>Mozilla 1.0</td>
-                        <td>Win 95+ / OSX.1+</td>
-                        <td>1</td>
-                        <td>A</td>
+                        <td>Yodlee</td>
+                        <td>Misc</td>
+                        <td>9</td>
+                        <td>BoA</td>
                       </tr>
                     </tbody>
                     <tfoot>

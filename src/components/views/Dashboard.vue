@@ -210,7 +210,7 @@ export default {
       var pieConfig = {
         type: 'pie',
         data: {
-          labels: ['Food', 'Rent', 'Misc'],
+          labels: ['Rent', 'Food', 'Misc'],
           datasets: [{
             data: [56.6, 37.7, 4.1],
             backgroundColor: ['#00a65a', '#f39c12', '#00c0ef'],

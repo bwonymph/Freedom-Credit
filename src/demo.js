@@ -59,9 +59,22 @@ export const timeline = [{
 {
   icon: 'fa-user',
   color: 'yellow',
-  title: 'Next Minimum Payment is due soon',
+  title: 'Next Minimum Payment is due soon: Freedom Credit',
   time: moment('20181018', 'YYYYMMDD').fromNow(),
   body: 'Minimum Payment is 20 Dollars',
+  buttons: [{
+    type: 'primary',
+    message: 'Pay Now',
+    href: 'https://en.wikipedia.org/wiki/Passive_management',
+    target: '_blank'
+  }]
+},
+{
+  icon: 'fa-user',
+  color: 'yellow',
+  title: 'Next Minimum Payment is due soon: Bank of America',
+  time: moment('20181024', 'YYYYMMDD').fromNow(),
+  body: 'Bank of America Card: Minimum Payment is 15 Dollars',
   buttons: [{
     type: 'primary',
     message: 'Pay Now',
