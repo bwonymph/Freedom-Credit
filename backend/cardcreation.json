@@ -1,0 +1,15 @@
+{
+  "start_date": "2018-10-20",
+  "name": "Freedom Credit Card",
+  "config": {
+    "fulfillment": {
+      "payment_instrument":"VIRTUAL_PAN"
+     },
+    "poi": {
+      "ecommerce": true
+    },
+    "card_life_cycle": {
+      "activate_upon_issue": true
+    }
+  }
+}

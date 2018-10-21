@@ -27,6 +27,7 @@
           <div class="info-box-content">
             <span class="info-box-text">Emergency Savings</span>
             <span class="info-box-number">$145</span>
+            <img src="../../../static/img/paypal.png" style="height:35px;"></img>
           </div>
           <!-- /.info-box-content -->
         </div>
@@ -162,10 +163,10 @@ export default {
   },
   computed: {
     coPilotNumbers () {
-      return this.generateRandomNumbers(12, 1000000, 10000)
+      return this.generateRandomNumbers(12, 600, 500)
     },
     personalNumbers () {
-      return this.generateRandomNumbers(12, 1000000, 10000)
+      return this.generateRandomNumbers(12, 700, 500)
     },
     isMobile () {
       return (window.innerWidth <= 800 && window.innerHeight <= 600)
@@ -185,12 +186,6 @@ export default {
             pointBackgroundColor: '#284184',
             backgroundColor: 'rgba(0, 0, 0, 0)',
             data: this.coPilotNumbers
-          }, {
-            label: 'FICO',
-            borderColor: '#4BC0C0',
-            pointBackgroundColor: '#4BC0C0',
-            backgroundColor: 'rgba(0, 0, 0, 0)',
-            data: this.personalNumbers
           }]
         },
         options: {

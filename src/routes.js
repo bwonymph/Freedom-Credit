@@ -40,8 +40,8 @@ const routes = [
       }, {
         path: 'setting',
         component: SettingView,
-        name: 'Settings',
-        meta: {description: 'User settings page'}
+        name: 'Emergency',
+        meta: {description: 'Tap into emergency funds'}
       }, {
         path: 'access',
         component: AccessView,

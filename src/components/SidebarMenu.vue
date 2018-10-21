@@ -23,8 +23,8 @@
     </router-link>
     <router-link tag="li" class="pageLink" to="/setting">
       <a>
-        <i class="fa fa-cog"></i>
-        <span class="page">Settings</span>
+        <i class="fa fa-exclamation-circle"></i>
+        <span class="page">Emergency</span>
       </a>
     </router-link>
     <li class="treeview">
