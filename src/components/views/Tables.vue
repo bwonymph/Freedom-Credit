@@ -97,11 +97,11 @@
                     </thead>
                     <tbody>
                       <tr class="even" role="row">
-                        <td class="sorting_1">Safeway</td>
+                        <td class="sorting_1">Audible audible.com NJ</td>
                         <td>Yodlee</td>
-                        <td>Food</td>
-                        <td>20</td>
-                        <td>BoA Card</td>
+                        <td>Misc</td>
+                        <td>15</td>
+                        <td>DAG Yodlee Card</td>
                       </tr>
                       <tr class="odd" role="row">
                         <td class="sorting_1">Payment</td>
@@ -111,25 +111,25 @@
                         <td>Freedom Credit Card</td>
                       </tr>
                       <tr class="even" role="row">
-                        <td class="sorting_1">Safeway</td>
+                        <td class="sorting_1">WWW.SHEIN.COM CALIFORNIA CA</td>
                         <td>Yodlee</td>
-                        <td>Food</td>
-                        <td>18</td>
-                        <td>BoA Card</td>
+                        <td>Misc</td>
+                        <td>25</td>
+                        <td>DAG Yodlee Card</td>
                       </tr>
                       <tr class="odd" role="row">
-                        <td class="sorting_1">Amazon</td>
+                        <td class="sorting_1">LINKEDIN-423*8709343LNKD.IN/BIL</td>
+                        <td>Yodlee</td>
+                        <td>Misc</td>
+                        <td>25</td>
+                        <td>DAG Yodlee Card</td>
+                      </tr>
+                      <tr class="even" role="row">
+                        <td class="sorting_1">WWW.ITUNES.COM/BILL CUPERTINO CA</td>
                         <td>Yodlee</td>
                         <td>Misc</td>
                         <td>10</td>
-                        <td>BoA Card</td>
-                      </tr>
-                      <tr class="even" role="row">
-                        <td class="sorting_1">Amazon</td>
-                        <td>Yodlee</td>
-                        <td>Misc</td>
-                        <td>19</td>
-                        <td>BoA</td>
+                        <td>DAG Yodlee Card</td>
                       </tr>
                       <tr class="odd" role="row">
                         <td class="sorting_1">Payment</td>
@@ -153,11 +153,11 @@
                         <td>Emergency Fund</td>
                       </tr>
                       <tr class="even" role="row">
-                        <td class="sorting_1">Safeway</td>
+                        <td class="sorting_1">WWW.ITUNES.COM/BILL CUPERTINO CA</td>
                         <td>Yodlee</td>
-                        <td>Food</td>
-                        <td>12</td>
-                        <td>BoA</td>
+                        <td>Misc</td>
+                        <td>15</td>
+                        <td>DAG Yodlee Card</td>
                       </tr>
                       <tr class="odd" role="row">
                         <td class="sorting_1">Payment</td>
@@ -167,11 +167,11 @@
                         <td>Freedom Credit Card</td>
                       </tr>
                       <tr class="even" role="row">
-                        <td class="sorting_1">Amazon</td>
+                        <td class="sorting_1">GOOGLE *YOUTUBE TV 815-816-3981</td>
                         <td>Yodlee</td>
                         <td>Misc</td>
-                        <td>9</td>
-                        <td>BoA</td>
+                        <td>35</td>
+                        <td>DAG Yodlee Card</td>
                       </tr>
                     </tbody>
                     <tfoot>
