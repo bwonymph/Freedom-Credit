@@ -48,18 +48,18 @@ export const timeline = [{
   color: 'blue',
   title: 'Read financial advice: Passive Investments',
   time: moment().endOf('day').fromNow(),
-  body: 'Etsy doostang zoodles disqus groupon greplin oooj voxy zoodles, weebly ning heekya handango imeem plugg dopplr jibjab, movity jajah plickers sifteo edmodo ifttt zimbra. Babblely odeo kaboodle quora plaxo ideeli hulu weebly balihoo...',
+  body: 'Passive management (also called passive investing) is an investing strategy that tracks a market-weighted index or portfolio.[1][2] The most popular method is to mimic the performance of an externally specified index by buying an index fund...',
   buttons: [{
     type: 'primary',
     message: 'Read more',
-    href: 'https://github.com/misterGF/CoPilot',
+    href: 'https://en.wikipedia.org/wiki/Passive_management',
     target: '_blank'
   }]
 },
 {
   icon: 'fa-user',
   color: 'yellow',
-  title: 'Sarah Young is following your progress',
+  title: 'Kent Makishima is following your progress',
   time: moment('20180620', 'MMM Do YY').fromNow()
 },
 {
@@ -67,5 +67,6 @@ export const timeline = [{
   color: 'purple',
   title: 'Watch this video',
   time: moment('20130620', 'YYYYMMDD').fromNow(),
-  body: '<div class="embed-responsive embed-responsive-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/8aGhZQkoFbQ" frameborder="0" allowfullscreen></iframe></div>'
+  body: '<div class="embed-responsive embed-responsive-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/5LowFH22_vI" frameborder="0" allowfullscreen></iframe></div>'
+  // <iframe width="560" height="315" src="https://www.youtube.com/embed/5LowFH22_vI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 }]
