@@ -117,7 +117,7 @@
                 <!-- The user image in the navbar-->
                 <img v-bind:src="demo.avatar" class="user-image" alt="User Image">
                 <!-- hidden-xs hides the username on small devices so only the image appears. -->
-                <span class="hidden-xs">{{ demo.displayName }}</span>
+                <span class="hidden-xs">Kent Makishima</span>
               </a>
             </li>
           </ul>

@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Freedom Credit</title>
+    <link rel="shortcut icon" type="image/x-icon" href="static/img/favicon.ico"/>
+    <!-- css -->
+  </head>
+
+    <body> 
+        <span id='lippButton'></span>
+  
+    </body>
+    <!-- built files will be auto injected. Static files below -->
+    <script src='https://www.paypalobjects.com/js/external/api.js'></script>
+    <script src='https://www.paypalobjects.com/js/external/api.js'></script>
+    <script>
+      paypal.use( ['login'], function (login) {
+        login.render ({
+          "appid":"ATUKBU_jI89MqPjegNS7x1oT4XKLOYUmacoTlHukhBH3ctUyNS94320jes9adF9TpuzSQW68t7MnXBE5",
+          "authend":"sandbox",
+          "scopes":"openid",
+          "containerid":"lippButton",
+          "locale":"en-us",
+          "returnurl":"https://localhost:8080"
+        });
+      });
+    </script>
+  </body>
+</html>

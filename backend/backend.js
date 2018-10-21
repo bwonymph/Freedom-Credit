@@ -1,0 +1,3 @@
+function hello(){
+	// shit here
+}

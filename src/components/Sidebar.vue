@@ -11,7 +11,7 @@
         </div>
         <div class="pull-left info">
           <div>
-            <p class="white">{{ displayName }}</p>
+            <p class="white">Kent Makishima</p>
           </div>
           <a href="javascript:;">
             <i class="fa fa-circle text-success"></i> Online
