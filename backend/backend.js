@@ -28,6 +28,15 @@ function createCard(){
 	);
 }
 
+function aggregation(){
+	request('https://developer.api.yodlee.com:443/ysl/transactions', function (error, response, body) {
+	  console.log('error:', error); // Print the error if one occurred
+	  console.log('statusCode:', response && response.statusCode); // Print the response status code if a response was received
+	  String response = ('body:', body); 
+	});
+	return response;
+
+}
 
 
 function issueCredit(){
@@ -101,8 +110,6 @@ function payment_marqueta(int amount, string description){
 	);
 
 }
-
-
 
 
 // curl -v -X POST https://api.sandbox.paypal.com/v1/payments/payment \
